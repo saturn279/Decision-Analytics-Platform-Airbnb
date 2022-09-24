@@ -6,8 +6,8 @@ import os
 import pickle
 from airbnb_ETL import DataInterface
 import re
-from airbnb_insights import RecommendationEngine 
-from airbnb_insights import Insight
+#from airbnb_insights import RecommendationEngine 
+#from airbnb_insights import Insight
 from stats import show_statistics
 
 
@@ -15,7 +15,7 @@ st.set_page_config(page_title='AirBnB')
 
 
 city_re = re.compile('DataInterface_(.*)\.obj')
-city_list = [city_re.findall(file)[0] for file in os.listdir('../streamlit') if city_re.match(file)]
+city_list = [city_re.findall(file)[0] for file in os.listdir('.') if city_re.match(file)]
 
 with st.spinner('Loading...'):
     time.sleep(0.1)
