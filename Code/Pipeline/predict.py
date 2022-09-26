@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 
 
-def show_predict_page(city,df,model_seattle_revenue,model_seattle_booking_rate,describe):
+def show_predict_page(model_seattle_revenue,model_seattle_booking_rate,describe):
     
     def get_min_value(col_name):
         if col_name=='price':
