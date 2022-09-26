@@ -43,7 +43,7 @@ def show_predict_page(city,df,model_seattle_revenue,model_seattle_booking_rate,d
     input=np.array([inputs]).astype(np.float64)
 
     output=model_seattle_revenue.predict(input)
-    st.success(f'Predicted Revenue is {round(float(output),2)}')
+    st.success(f'Predicted Revenue is ${round(float(output),2)} ')
     # if output < describe.loc['25%','revenue']:
     #     st.markdown(danger_html.format('revenue','25'),unsafe_allow_html=True)
     # elif output < describe.loc['75%','revenue']:

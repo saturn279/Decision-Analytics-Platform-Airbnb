@@ -1,12 +1,6 @@
-import pandas as pd
-import numpy as np
-import seaborn as sns
 import streamlit as st
-import matplotlib.pyplot as plt
-import re
 
-import pickle
-from airbnb_ETL import DataInterface
+
 
 
 def show_explore_page(insights):
