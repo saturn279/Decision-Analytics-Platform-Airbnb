@@ -1,7 +1,0 @@
-scikit-learn
-bs4
-xgboost
-pandas
-requests
-numpy
-matplotlib

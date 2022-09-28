@@ -1,0 +1,2 @@
+http://data.insideairbnb.com/the-netherlands/north-holland/amsterdam/2022-09-07/data/listings.csv.gz
+http://data.insideairbnb.com/united-states/wa/seattle/2022-09-18/data/calendar.csv.gz
