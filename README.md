@@ -8,7 +8,7 @@ Generalized batch processing and analytics framework.
     pip install scikit-learn bs4 xgboost pandas requests numpy matplotlib streamlit 
 #### Initilization
     git clone https://github.com/saturn279/Decision-Analytics-Platform-Airbnb
-    cd Decision-Analytics-Platform-Airbnb/Code/
+    cd Decision-Analytics-Platform-Airbnb/Code/Deployment
     streamlit run streamlit_internal.py 
 #### In new terminal
     streamlit run streamlit_app.py
