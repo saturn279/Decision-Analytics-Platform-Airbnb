@@ -23,17 +23,17 @@ def show_predict_page(model_revenue,model_booking_rate,describe):
     
     
     safe_html="""  
-      <div style="background-color:#EEF1FF;padding:10px >
+      <div style="padding:10px >
         <h2 style="text-align: center;color:black;"> {} is in the top {}% population</h2>
         </div>
     """
     danger_html="""  
-      <div style="background-color:#F08080;padding:10px >
+      <div style="padding:10px >
         <h2 style="'color':black ;'text-align' : center;"> {} is in the bottom {}% population</h2>
         </div>
     """
     medium_html="""  
-      <div style="background-color:#F1E36B;padding:10px >
+      <div style="padding:10px >
         <h2 style="'color':black ;'text-align' : center;"> {} is in the top {}% population</h2>
         </div>
     """
