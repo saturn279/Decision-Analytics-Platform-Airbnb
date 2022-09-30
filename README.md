@@ -3,7 +3,7 @@ Generalized batch processing and analytics framework.
 
 # Installation
 ### Pre-deployed
-   [Streamlit Cloud](https://saturn279-linear-regression-demo-streamlit-st-linear-ynsr8p.streamlitapp.com)
+   [Streamlit Cloud](https://saturn279-deploy-airbnb-streamlit-app-4za9hw.streamlitapp.com)
 ### Portable
 #### Prerequisites
 
