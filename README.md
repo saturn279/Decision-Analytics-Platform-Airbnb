@@ -5,6 +5,8 @@ Welcome to the **Decision Analytics Platform for Airbnb**, a powerful batch proc
 ## Demo
 Check out our [Client Interface Demo](https://user-images.githubusercontent.com/101204171/206233456-49c86b3e-62a8-4cfa-9496-409603191465.webm) to get a glimpse of the platform's features.
 
+[VIdeo](https://user-images.githubusercontent.com/101204171/206233456-49c86b3e-62a8-4cfa-9496-409603191465.webm)
+
 ## Quickstart with Docker
 Experience the power of our platform in minutes using Docker.
 
