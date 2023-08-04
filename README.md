@@ -52,7 +52,7 @@ pip install scikit-learn bs4 xgboost pandas requests numpy matplotlib streamlit
     ```
 
 ### Hadoop Cluster Setup
-For more advanced users, you can integrate the platform with a Hadoop cluster for enhanced performance and scalability. Here's how:
+For more advanced users, you can integrate the platform with a Hadoop cluster for enhanced scalability.
 
 1. Ensure you have Python 3.7+ and Hadoop 3+ installed.
 
